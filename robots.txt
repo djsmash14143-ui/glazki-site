@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glazki-studio.ru/sitemap.xml
+Host: https://glazki-studio.ru
